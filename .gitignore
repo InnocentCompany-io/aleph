@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+bin/aleph
+bin/binary
+
 # Object files
 *.o
 *.ko
